@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bin2Dec</string>
+    <string name="bin2dec">Bin2Dec</string>
+    <string name="transformar">Transformar</string>
+    <string name="_0">0</string>
+    <string name="insira_o_c_digo_bin_rio">Insira o código binário</string>
+</resources>
